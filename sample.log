@@ -1,0 +1,5 @@
+[INFO] 2025-07-12 12:30:01 - User login successful - user: chally
+[WARN] 2025-07-12 12:31:22 - Password attempt failed - user: unknown
+[INFO] 2025-07-12 12:32:45 - File uploaded - file: report.pdf
+[ERROR] 2025-07-12 12:33:09 - Connection timeout to DB server
+[INFO] 2025-07-12 12:34:18 - User logout - user: chally
